@@ -5,7 +5,7 @@ function Product() {
   return (
     <div className="product">
       <div className="product__info">
-        <p>Hooked</p>
+        <p>Hooked: The Book</p>
         <p className="product__price">
           <small>$</small>
           <strong>13.99</strong>
